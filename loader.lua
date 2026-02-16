@@ -64,7 +64,7 @@ end
 if getgenv().TDX_Config["mapvoting"] ~= nil then getgenv().TDX_Config["Voter"] = true end
 if getgenv().TDX_Config["loadout"] ~= nil then getgenv().TDX_Config["Loadout"] = true end
 
-local base = "https://raw.githubusercontent.com/mmr1337/hvh123/main/"
+local base = "https://raw.githubusercontent.com/mmr1337//hvh123/refs/heads/main/"
 local links = {
     ["x1.5 Speed"]      = base .. "speed.lua",
     ["Auto Skill"]      = base .. "auto_skill.lua",
